@@ -1,5 +1,5 @@
 {
-  "name": "goofx${5-1}x<h1>tst</h1>",
+  "name": "goofx&lt;h1&gt;tst&lt;/h1&gt;",
   "version": "0.0.3",
   "description": "A vulnerable todo demo application",
   "homepage": "https://snyk.io/",
