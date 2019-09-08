@@ -1,5 +1,5 @@
 {
-  "name": "goofx\u007e",
+  "name": "goofx\\u007e\u003ch1\u003etest\u003c/h1\u003e",
   "version": "0.0.3",
   "description": "A vulnerable todo demo application",
   "homepage": "https://snyk.io/",
